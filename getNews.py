@@ -20,7 +20,7 @@ def get2daysNews(category):
     }
     headers = {
         "content-type": "application/json",
-        "X-RapidAPI-Key": "a3e379bd76mshca99cc6310c6bf6p165f92jsnd0482515bb91",
+        "X-RapidAPI-Key": "your-rapidapi-key",
         "X-RapidAPI-Host": "newsnow.p.rapidapi.com"
     }
 

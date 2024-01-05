@@ -6,7 +6,7 @@ from getNews import *
 
 logging.basicConfig(level=logging.INFO)
 
-bot = Bot(token="6886947694:AAGezRFdWVm4MOcmwMf3NAKJNOuTtIPRbGY")
+bot = Bot(token="Your Token")
 dp = Dispatcher(bot)
 
 # Menu keyboard
